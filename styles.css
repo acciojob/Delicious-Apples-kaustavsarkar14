@@ -1,1 +1,23 @@
 /* your code here */
+.product {
+	background: blue;
+	display: flex;
+}
+.product__photo {
+	background: green;
+	width: 50%;
+	height: 90%;
+}
+.photo-album>ul{
+	background: yellow;
+	display: flex;
+	list-style-type: none;
+	
+}
+.product__info{
+	background: grey;
+}
+.variant>ul {
+	display: flex;
+	list-style-type: none;
+}
